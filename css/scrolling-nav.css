@@ -19,6 +19,13 @@ body {
     margin: 0 auto;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
 .top-buffer {
   margin-top:20px;
 }
@@ -26,20 +33,6 @@ body {
 .bot-buffer {
   margin-bottom:20px;
 }
-
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-/* .center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-  text-align: center;
-} */
 
 .question {
   position: relative;
